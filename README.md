@@ -4,7 +4,7 @@ A responsive Weather Dashboard built using **HTML, CSS, and JavaScript** that al
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed project link here
+🔗 https://github.com/Srinivasvasam45/Weather_Report.git
 
 ## 📌 Features
 
